@@ -10,8 +10,8 @@
 
 ### 📌 Sobre mí
 
-- 💻 Apasionado por el desarrollo Front-End con enfoque en rendimiento y accesibilidad.
-- 🌐 Experiencia con HTML, CSS, JavaScript, React.js y Node.js
+- 💻 Apasionado por el desarrollo Front-End y Backend con enfoque en rendimiento y accesibilidad.
+- 🌐 Experiencia con HTML, CSS, JavaScript, Java, React.js y Node.js
 - 📦 Dominio en el consumo de APIs REST y metodologías ágiles.
 - 🔧 Buen manejo de herramientas como Git, Figma y Cypress.
 - 📍 San Salvador, El Salvador
@@ -32,15 +32,21 @@ Análisis de datos con visualizaciones interactivas a partir de bases de datos S
 ---
 
 ### 🛠️ Habilidades
-
 #### Lenguajes y Tecnologías
-- **Lenguajes**: HTML, CSS, JavaScript, Java
+
+ <p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,mongodb,mysql,postgres,figma,git,github,docker,vercel" />
+</p> 
+
+- **Lenguajes**: JavaScript, Java
+- **Front-End**: HTML, CSS
 - **Frameworks**: React.js, Node.js
-- **Bases de Datos**: MongoDB, MySQL, SQL
+- **Bases de Datos**: MongoDB, MySQL, SQL, PostgreSQL
 - **Diseño y Prototipado**: Figma
 - **Testing**: Cypress
 - **Control de Versiones**: Git & GitHub
 - **Despliegue**: Vercel, Docker
+ 
 
 #### Habilidades Blandas
 - Trabajo en equipo 🤝
@@ -52,11 +58,21 @@ Análisis de datos con visualizaciones interactivas a partir de bases de datos S
 
 ---
 
-### 📫 Contáctame
+<h3 align="center">📬 Puedes contactarme por:</h3>
 
-- 📧 Email: anthocanales22@gmail.com
-- 🔗 [GitHub](https://github.com/aacmyk22)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/anthony-canales-9662ab341/)
+<p align="center">
+  <a href="mailto:anthocanales22@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+ 
+  <a href="https://github.com/aacmyk22" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/anthony-canales-9662ab341/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -69,5 +85,5 @@ Análisis de datos con visualizaciones interactivas a partir de bases de datos S
 
 ---
 
-🎯 “El código limpio siempre gana” — Anthony Canales
+🎯 “Si puedes imaginarlo, puedes programarlo...” — Programación ATS
 
