@@ -1,10 +1,9 @@
-<h1 align="center">Hola, soy <span style="color:#007acc">Anthony Alexander Canales Martínez</span> 👋</h1>
+<h1 align="center">Hola, soy <span style="color:#007acc">Anthony Canales</span> 👋</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-user-id" width="120" style="border-radius: 50%" alt="Anthony Avatar"/>
+ <img src="https://github.com/aacmyk22/aacmyk22/blob/main/imag/portada.png?raw=true" alt="Banner de portada" width="1000" height="400"" />
 </p>
 
-<h2 align="center">@aacmyk22</h2>
 <h4 align="center">Ingeniero Informático | Desarrollador Front-End</h4>
 
 ---
@@ -35,7 +34,7 @@ Análisis de datos con visualizaciones interactivas a partir de bases de datos S
 ### 🛠️ Habilidades
 
 #### Lenguajes y Tecnologías
-- **Lenguajes**: HTML, CSS, JavaScript
+- **Lenguajes**: HTML, CSS, JavaScript, Java
 - **Frameworks**: React.js, Node.js
 - **Bases de Datos**: MongoDB, MySQL, SQL
 - **Diseño y Prototipado**: Figma
@@ -57,7 +56,7 @@ Análisis de datos con visualizaciones interactivas a partir de bases de datos S
 
 - 📧 Email: anthocanales22@gmail.com
 - 🔗 [GitHub](https://github.com/aacmyk22)
-- 🌐 LinkedIn: *(agrega tu perfil si tienes)*
+- 🌐 [LinkedIn](https://www.linkedin.com/in/anthony-canales-9662ab341/)
 
 ---
 
