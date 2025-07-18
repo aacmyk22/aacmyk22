@@ -11,7 +11,6 @@
 
 ### 📌 Sobre mí
 
-- 🎓 Estudiante de 4to año de Ingeniería Informática en la [UCA - El Salvador](https://uca.edu.sv/)
 - 💻 Apasionado por el desarrollo Front-End con enfoque en rendimiento y accesibilidad.
 - 🌐 Experiencia con HTML, CSS, JavaScript, React.js y Node.js
 - 📦 Dominio en el consumo de APIs REST y metodologías ágiles.
@@ -57,7 +56,6 @@ Análisis de datos con visualizaciones interactivas a partir de bases de datos S
 ### 📫 Contáctame
 
 - 📧 Email: anthocanales22@gmail.com
-- 📱 Teléfono: +503 6170-4592
 - 🔗 [GitHub](https://github.com/aacmyk22)
 - 🌐 LinkedIn: *(agrega tu perfil si tienes)*
 
